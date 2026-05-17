@@ -1,0 +1,23 @@
+{
+  "plugins": [
+    "expo-asset"
+  ],
+  "extra": {
+    "eas": {
+      "projectId": "7d802449-9e11-48aa-8535-4409afef65d1"
+    }
+  },
+  "expo": {
+    "android": {
+      "package": "com.melendez.pideycome"
+    },
+    "plugins": [
+      "@react-native-community/datetimepicker"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7d802449-9e11-48aa-8535-4409afef65d1"
+      }
+    }
+  }
+}
